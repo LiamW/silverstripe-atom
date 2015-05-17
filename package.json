@@ -1,8 +1,9 @@
 {
   "name": "silverstripe-bundle",
   "version": "0.1.0",
-  "description": "An atom port of the Silverstripe Textmate Bundle by @mattash",
-  "repository": "https://github.com/adrexia/silverstripe-atom.git",
+  "description": "Get SilverStripe syntax highlighting and basic code snippets. 
+  Based on the original - https://github.com/adrexia/silverstripe-atom ",
+  "repository": "https://github.com/LiamW/silverstripe-atom.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
