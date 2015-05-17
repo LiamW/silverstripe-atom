@@ -1,5 +1,3 @@
-# silverstripe package
+Based on the original https://github.com/adrexia/silverstripe-atom
 
-An atom port of the Silverstripe Textmate Bundle by @mattash
-
-Orignal URL: https://github.com/mattash/silverstripe-textmate-bundle.git
+Brought up to date with 3.1 snippets and added in a few that I use in the syntax I prefer.
