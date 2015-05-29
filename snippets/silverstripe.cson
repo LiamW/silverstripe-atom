@@ -17,10 +17,10 @@
   'include':
     'prefix': 'include'
     'body': '<% include ${1:File} %>'
-'.source.php':
+'.text.html.php':
   'Class Controller Skeleton':
     'prefix': 'skel'
-    'body': '<?php\n\tclass $1 extends ${2:Page} {\n\t\tstatic \\$db = array(\n\t\t\t\'$3\' => \'${4:Varchar/Text/HTMLVarchar/HTMLText/Enum/Boolean/Int/Date/Datetime/Time}\',$0\n\t\t);\n\t\tstatic \\$has_one = array(\n\t     );\n\t}\n\n\tclass ${1}_Controller extends ${2}_Controller {\n\t\tfunction init() {\n\t\t\tparent::init();\n\t\t}\n\t}\n?>'
+    'body': '<?php\n\tclass $1 extends ${2:Page} {\n\t\tstatic \\$db = array(\n\t\t\t\'$3\' => \'${4:Varchar/Text/HTMLVarchar/HTMLText/Enum/Boolean/Int/Date/Datetime/Time}\',$0\n\t\t);\n\t\tstatic \\$has_one = array(\n\t     );\n\t}\n\n\tclass ${1}_Controller extends ${2}_Controller {\n\t\tfunction init() {\n\t\t\tparent::init();\n\t\t}\n\t}'
   'Debug-message':
     'prefix': 'dm'
     'body': 'Debug::message(${1});'
