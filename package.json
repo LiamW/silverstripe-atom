@@ -1,6 +1,10 @@
 {
   "name": "silverstripe-syntax-and-snippets",
+<<<<<<< HEAD
   "version": "0.3.0",
+=======
+  "version": "0.2.1",
+>>>>>>> origin/master
   "description": "Get SilverStripe syntax highlighting and basic code snippets.",
   "repository": "https://github.com/LiamW/silverstripe-atom.git",
   "license": "MIT",
